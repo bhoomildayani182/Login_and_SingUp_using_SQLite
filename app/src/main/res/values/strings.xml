@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical 4</string>
+    <string name="login">Login</string>
+    <string name="reg">SingUp</string>
+</resources>
